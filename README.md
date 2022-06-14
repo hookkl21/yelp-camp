@@ -7,6 +7,11 @@ https://arcane-savannah-69920.herokuapp.com/
 
 ## About Campground
 
+### Install
+- user must install npm dependencies and start in order for the code to work in your local environment
+#### Command
+- npm install && npm start
+
 ### Purpose
 - The purpose of this app is to sharpen the skills for FULL STACK Development cycles.
 - This app is focused more on BACKEND development rather than the FRONTEND
