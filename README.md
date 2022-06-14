@@ -27,6 +27,7 @@
 - cloudinary
 - multer
 - passport
+- joi
 
 ### User Guide
 - This is the app similar to actual YelpCamp app, the user can post their experience on campgrounds they visited and share to the world!
