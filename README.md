@@ -45,3 +45,6 @@ https://arcane-savannah-69920.herokuapp.com/
     3. Only the SAME user account can edit/delete their campgrounds and comments (if any user can delete or edit campgrounds, there is no point!)
 - The app has authorization function in order to avoid unwanted users to modify any comments or campground.
 - When creating campgrounds, user must enter the required fields before user can submit their campground
+
+### Demo video
+![demo-yelpcamp](./demo-yelpcamp (1).gif)
