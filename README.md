@@ -6,7 +6,7 @@
 ## About Campground
 
 ### Purpose
-- The purpose of this app is to sharpen the skills for FULL STACK Development.
+- The purpose of this app is to sharpen the skills for FULL STACK Development cycles.
 - This app is focused more on BACKEND development rather than the FRONTEND
 - Used Bootstrap frameworks for styling to speed up the process and practice CSS frameworks
 - Also good practice to avoid any user error to sharpen my critical thinking skills (i.e require fields for submitting form)
