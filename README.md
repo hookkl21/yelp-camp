@@ -47,4 +47,4 @@ https://arcane-savannah-69920.herokuapp.com/
 - When creating campgrounds, user must enter the required fields before user can submit their campground
 
 ### Demo video
-![demo-yelpcamp](./demo-yelpcamp (1).gif)
+![Demo yelp-camp](./demo-yelpcamp (1).gif)
